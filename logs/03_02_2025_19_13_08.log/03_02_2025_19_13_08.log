@@ -1,5 +1,0 @@
-[ 2025-03-02 19:13:10,778 ] 20 root - INFO - Ingesting the data into the feature store
-[ 2025-03-02 19:13:15,082 ] 85 root - INFO - perfrmed Train test split on the Dataset
-[ 2025-03-02 19:13:15,082 ] 87 root - INFO - Splitng Process Completed and exited the process 
-[ 2025-03-02 19:13:15,083 ] 92 root - INFO - Exporting the Train and test files into the location
-[ 2025-03-02 19:13:15,208 ] 96 root - INFO - Exported the Train and test files into the location
