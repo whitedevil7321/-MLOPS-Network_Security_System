@@ -79,6 +79,7 @@ class DataValidation:
                 drift_report_file_path=self.data_validation_config.drift_report_file_path,
 
             )
+            return data_validation_artifacts 
         except Exception as e:
             logging.error("Error occured while validating the data")
             raise NetworkSecurityException(e,sys)

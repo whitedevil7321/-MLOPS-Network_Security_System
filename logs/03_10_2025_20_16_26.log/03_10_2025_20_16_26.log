@@ -1,9 +1,0 @@
-[ 2025-03-10 20:16:29,462 ] 21 root - INFO - Ingesting the data into the feature store
-[ 2025-03-10 20:16:40,635 ] 85 root - INFO - perfrmed Train test split on the Dataset
-[ 2025-03-10 20:16:40,635 ] 87 root - INFO - Splitng Process Completed and exited the process 
-[ 2025-03-10 20:16:40,635 ] 92 root - INFO - Exporting the Train and test files into the location
-[ 2025-03-10 20:16:40,859 ] 96 root - INFO - Exported the Train and test files into the location
-[ 2025-03-10 20:16:40,860 ] 23 root - INFO - Data Ingestion completed successfully
-[ 2025-03-10 20:16:40,976 ] 38 root - INFO - Required Number of columns in the dataset2
-[ 2025-03-10 20:16:41,056 ] 39 root - INFO - The dataframe has 31 columns
-[ 2025-03-10 20:16:41,567 ] 29 root - INFO - Data Validation completed successfully
