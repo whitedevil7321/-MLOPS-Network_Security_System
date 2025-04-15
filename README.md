@@ -78,44 +78,6 @@ networksecurity/
 └── requirements.txt
 ```
 
----
-
-## ⚙️ Setup & Installation
-
-```bash
-git clone https://github.com/yourusername/networksecurity.git
-cd networksecurity
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Run Pipeline
-
-```bash
-python main.py
-```
-
----
-
-## 🌐 Run API
-
-```bash
-uvicorn app:app --reload
-```
-
-Visit: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-
----
-
-## 🐳 Docker
-
-```bash
-docker build -t networksecurity .
-docker run -p 8000:8000 networksecurity
-```
-
----
 
 ## ☁️ CI/CD and Deployment
 
